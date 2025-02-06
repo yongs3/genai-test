@@ -1,4 +1,3 @@
-```markdown
 # Gemini API with Python
 
 This simple Python API allows you to interact with Google's Gemini models using the `google-genai` library.
@@ -52,4 +51,3 @@ These commands install:
     *   Logging.
     *   Tests.
 This improved README provides clearer instructions, explains best practices (like using a `.env` file), and includes crucial information about obtaining an API key. It also gives excellent guidance on what the user should *add* to the README to make it complete and useful, once they've finished writing their code.
-```
